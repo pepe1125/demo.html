@@ -1,0 +1,1 @@
+prompt('Szia a GitHub-os oldalamon!')
