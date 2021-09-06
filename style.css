@@ -5,4 +5,11 @@ body {
 
 p {
     text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: x-large;
+}
+
+img {
+    border-radius: 200px;
 }
