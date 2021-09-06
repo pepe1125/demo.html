@@ -1,1 +1,1 @@
-prompt('Szia a GitHub-os oldalamon!')
+alert('Szia a GitHub-os oldalamon!')
